@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlbytes
 - 👀 I’m interested in Backend Development and VR application in current tech
-- 🌱 I’m currently learning: Software Development with Virtual Reality and Gaming (Year One)
+- 🌱 I’m currently learning: Software Development with Virtual Reality and Gaming (Year Three)
 - 💞️ I’m looking to collaborate on any projects that I could develop my skills on
 - 📫 How to reach me through Carlbyrne1990@gmail.com
 - 😄 Pronouns: He/Him
