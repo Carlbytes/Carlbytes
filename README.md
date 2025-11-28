@@ -61,8 +61,4 @@ A dynamic, educational web application designed to gamify math learning.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlbytes&show_icons=true&theme=dark&hide_border=true" alt="Carlbytes Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlbytes&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+
